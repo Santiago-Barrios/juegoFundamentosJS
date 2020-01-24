@@ -1,0 +1,2 @@
+# juegoFundamentosJS
+juego simón dice  
